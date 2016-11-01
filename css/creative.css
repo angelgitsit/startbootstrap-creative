@@ -59,6 +59,7 @@ aside {
   padding: 50px 0;
 }
 .no-padding {
+  padding top: 0;
   padding: 0;
 }
 .navbar-default {
