@@ -60,7 +60,7 @@ aside {
 }
 .no-padding {
   padding top: 0;
-  padding: 0;
+  padding: 0px 0px 0px;
 }
 .navbar-default {
   background-color: white;
